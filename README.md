@@ -1,7 +1,7 @@
 ## Hi there 👋
-Welcome to my Github profile, feel free to visit some of my projects.
-I'm currently working on a dating app using Angular and .NET although it's private for the moment.
-You can look at some of my deployed frontend projects at https://linktr.ee/je_ol
+- Welcome to my Github profile, feel free to visit some of my projects.
+- I'm currently working on a dating app using Angular and .NET although it's private for the moment.
+- You can look at some of my deployed frontend projects at https://linktr.ee/je_ol
 Just keep in mind some of them need to be updated😄
 
 <!--
